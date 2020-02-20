@@ -1,0 +1,4 @@
+Johny Jake,jj@testemail.com,1234567890,Male,jjpassword,Italy,TRUE,FALSE,FALSE
+Jodi Jackson,jj1@testemail.com,0987654321,FeMale,jj1password,France,False,FALSE,TRUE
+Tom Ford,TF@testemail.com,7890654321,Male,tfpassword,United States,TRUE,FALSE,TRUE
+Jackie Ronald,jr@testemail.com,2134567890,Female,jrpassword,Germany,FALSE,TRUE,FALSE
