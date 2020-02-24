@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2445e59-6664-41d9-9a34-83be32145a86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Codility/binaryGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterclassOOPStim/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterclassOOPStim/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterclassOOPStim/CarObjectsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterclassOOPStim/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterclassOOPStim/SimpleCalculatorObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterclassOOPStim/bankAccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptionsfiles/CommonExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptionsfiles/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptionsfiles/NegativePaymentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptionsfiles/PaymentsAppUserExc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documents/Git.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documents/Java-Basics.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documents/Java-Object-Oriented-Programming.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basics/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/HelloWorld.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,13 +104,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NewAccountDataDriven.newAccountTest">
-    <configuration name="AccountAppPoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.AccountAppPoly" />
+  <component name="RunManager" selected="Application.binaryGap">
+    <configuration name="CarObjectsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasterclassOOPStim.CarObjectsMain" />
       <module name="WebdriverJavaCucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="MasterclassOOPStim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.BankAccountApp" />
+    <configuration name="PaymentsAppUserExc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionsfiles.PaymentsAppUserExc" />
       <module name="WebdriverJavaCucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Labs.*" />
+          <option name="PATTERN" value="exceptionsfiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.BankAccountConstructorOverloading" />
+    <configuration name="SimpleCalculatorObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasterclassOOPStim.SimpleCalculatorObjectMain" />
       <module name="WebdriverJavaCucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="MasterclassOOPStim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.Lab2" />
+    <configuration name="bankAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasterclassOOPStim.bankAccountMain" />
       <module name="WebdriverJavaCucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Labs.*" />
+          <option name="PATTERN" value="MasterclassOOPStim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,18 +157,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewAccountDataDriven.newAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="binaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codility.binaryGap" />
       <module name="WebdriverJavaCucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="Codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.NewAccountDataDriven" />
-      <option name="METHOD_NAME" value="newAccountTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NewAccountDataDriven.newAccountTest" />
-        <item itemvalue="Application.Lab2" />
-        <item itemvalue="Application.BankAccountApp" />
-        <item itemvalue="Application.AccountAppPoly" />
-        <item itemvalue="Application.BankAccountConstructorOverloading" />
+        <item itemvalue="Application.binaryGap" />
+        <item itemvalue="Application.bankAccountMain" />
+        <item itemvalue="Application.SimpleCalculatorObjectMain" />
+        <item itemvalue="Application.CarObjectsMain" />
+        <item itemvalue="Application.PaymentsAppUserExc" />
       </list>
     </recent_temporary>
   </component>
